@@ -20,22 +20,16 @@ I am a passionate and experienced professional programmer with expertise in web 
 
 ## 📱 Mobile Apps
 
-I specialize in developing mobile applications using React Native. Here are some of the mobile apps I've worked on:
-
-- [App Name 1](link-to-app1) - Brief description of the app.
-- [App Name 2](link-to-app2) - Brief description of the app.
+I specialize in developing mobile applications using React Native. 
 
 ## 🌐 Web Projects
 
-I've been involved in various web projects, creating responsive and dynamic websites. Here are a few examples:
-
-- [Project Name 1](link-to-project1) - Brief description of the project.
-- [Project Name 2](link-to-project2) - Brief description of the project.
+I've been involved in various web projects, creating responsive and dynamic websites.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/arif-rahman-0085881b5/)
+
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. Let's create something awesome together!
 
